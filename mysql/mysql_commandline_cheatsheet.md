@@ -104,6 +104,8 @@ host kan feks. være 127.0.0.1, eller en anden ipadresse. Eller '%' som et wildc
   GRANT rettighed ON databasenavn.tablenavn TO 'brugernavn'@'host';
   ```
 
+Rettinghed kan feks være SELECT eller DELETE etc.
+
 - **Fjern Rettigheder fra en Bruger:**
   ```sql
   REVOKE rettighed ON databasenavn.tablenavn FROM 'brugernavn'@'host';
