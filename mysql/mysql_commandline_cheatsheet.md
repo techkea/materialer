@@ -1,5 +1,5 @@
 
-# MySQL Kommandolinje Cheatsheet
+# MySQL Cheatsheet
 ## Forbindelse til MySQL
 
 - **Forbind til MySQL Server:**
