@@ -1,5 +1,3 @@
-Sure! Here's the MySQL command-line cheatsheet translated into Danish:
-
 ```markdown
 # MySQL Kommandolinje Cheatsheet
 
