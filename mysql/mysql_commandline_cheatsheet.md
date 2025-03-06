@@ -1,6 +1,5 @@
-```markdown
-# MySQL Kommandolinje Cheatsheet
 
+# MySQL Kommandolinje Cheatsheet
 ## Forbindelse til MySQL
 
 - **Forbind til MySQL Server:**
@@ -135,7 +134,3 @@
   ```sql
   EXIT;
   ```
-```
-
-Du kan kopiere dette Markdown-indhold til en `.md`-fil eller bruge det direkte i enhver Markdown-understøttet platform. Hvis du har brug for specifikke kommandoer eller yderligere detaljer, så spørg gerne!
-```
