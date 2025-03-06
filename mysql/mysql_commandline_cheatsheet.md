@@ -139,8 +139,3 @@ Rettinghed kan feks være SELECT eller DELETE etc.
   ```sql
   SELECT DATABASE();
   ```
-
-- **Afslut MySQL:**
-  ```sql
-  EXIT;
-  ```
