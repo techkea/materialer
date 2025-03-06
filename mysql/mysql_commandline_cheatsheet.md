@@ -97,6 +97,7 @@
   ```sql
   CREATE USER 'brugernavn'@'host' IDENTIFIED BY 'adgangskode';
   ```
+host kan feks. være 127.0.0.1, eller en anden ipadresse. Eller '%' som et wildcard (alle ip adresser)    
 
 - **Giv Rettigheder til en Bruger:**
   ```sql
