@@ -116,17 +116,6 @@ Rettinghed kan feks være SELECT eller DELETE etc.
   DROP USER 'brugernavn'@'host';
   ```
 
-## Sikkerhedskopiering og Gendannelse
-
-- **Sikkerhedskopier en Database:**
-  ```sh
-  mysqldump -u brugernavn -p databasenavn > sikkerhedskopi.sql
-  ```
-
-- **Gendan en Database:**
-  ```sh
-  mysql -u brugernavn -p databasenavn < sikkerhedskopi.sql
-  ```
 
 ## Diverse
 
