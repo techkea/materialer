@@ -2,7 +2,7 @@
 # MySQL Cheatsheet
 ## Forbindelse til MySQL
 
-- **Forbind til MySQL Server: (fre terminalen)**
+- **Forbind til MySQL Server: (fra terminalen)**
   ```sh
   mysql -u brugernavn -p
   ```
