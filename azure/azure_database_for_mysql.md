@@ -6,8 +6,11 @@
 ### 2. vælg advanced
 ![](mysql_1a.png)
 
-### 2. udfyld felterne som dette
+### 3. udfyld felterne som dette
 ![](mysql_2.png)
 
-### 3. opsæt regler for firewall
+### 4. opsæt regler for firewall
 ![](mysql_3.png)
+
+### 5. database url
+![](mysql_4.png)
