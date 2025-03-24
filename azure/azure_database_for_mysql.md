@@ -9,3 +9,4 @@
 ![](mysql_2.png)
 
 ### 3. Opsæt regler for firewall
+![](mysql_3.png)
